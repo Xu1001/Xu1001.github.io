@@ -43,9 +43,9 @@
     
       <category term="深度学习" scheme="https://sunhwee.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="CV" scheme="https://sunhwee.com/tags/CV/"/>
-    
       <category term="GAN" scheme="https://sunhwee.com/tags/GAN/"/>
+    
+      <category term="CV" scheme="https://sunhwee.com/tags/CV/"/>
     
   </entry>
   
@@ -76,9 +76,9 @@
     
       <category term="深度学习" scheme="https://sunhwee.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="Paper Reading" scheme="https://sunhwee.com/tags/Paper-Reading/"/>
-    
       <category term="CV" scheme="https://sunhwee.com/tags/CV/"/>
+    
+      <category term="Paper Reading" scheme="https://sunhwee.com/tags/Paper-Reading/"/>
     
   </entry>
   
@@ -142,9 +142,9 @@
     
       <category term="深度学习" scheme="https://sunhwee.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="Paper Reading" scheme="https://sunhwee.com/tags/Paper-Reading/"/>
-    
       <category term="CV" scheme="https://sunhwee.com/tags/CV/"/>
+    
+      <category term="Paper Reading" scheme="https://sunhwee.com/tags/Paper-Reading/"/>
     
   </entry>
   
@@ -202,9 +202,9 @@
     
       <category term="深度学习" scheme="https://sunhwee.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="Paper Reading" scheme="https://sunhwee.com/tags/Paper-Reading/"/>
-    
       <category term="CV" scheme="https://sunhwee.com/tags/CV/"/>
+    
+      <category term="Paper Reading" scheme="https://sunhwee.com/tags/Paper-Reading/"/>
     
   </entry>
   
@@ -291,9 +291,9 @@
     
       <category term="深度学习" scheme="https://sunhwee.com/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="Paper Reading" scheme="https://sunhwee.com/tags/Paper-Reading/"/>
-    
       <category term="CV" scheme="https://sunhwee.com/tags/CV/"/>
+    
+      <category term="Paper Reading" scheme="https://sunhwee.com/tags/Paper-Reading/"/>
     
   </entry>
   
@@ -441,36 +441,6 @@
   </entry>
   
   <entry>
-    <title>为博客网站增加一个二级目录菜单</title>
-    <link href="https://sunhwee.com/posts/65d7181d.html"/>
-    <id>https://sunhwee.com/posts/65d7181d.html</id>
-    <published>2019-09-18T05:35:48.000Z</published>
-    <updated>2019-10-19T15:05:12.824Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="网站优化" scheme="https://sunhwee.com/categories/%E7%BD%91%E7%AB%99%E4%BC%98%E5%8C%96/"/>
-    
-    
-      <category term="博客" scheme="https://sunhwee.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-      <category term="二级目录" scheme="https://sunhwee.com/tags/%E4%BA%8C%E7%BA%A7%E7%9B%AE%E5%BD%95/"/>
-    
-      <category term="Hexo" scheme="https://sunhwee.com/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
     <title>网站图片压缩优化</title>
     <link href="https://sunhwee.com/posts/f12d2c9e.html"/>
     <id>https://sunhwee.com/posts/f12d2c9e.html</id>
@@ -522,9 +492,9 @@
       <category term="网站建设与优化" scheme="https://sunhwee.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E4%B8%8E%E4%BC%98%E5%8C%96/"/>
     
     
-      <category term="Github" scheme="https://sunhwee.com/tags/Github/"/>
-    
       <category term="Jsdelivr" scheme="https://sunhwee.com/tags/Jsdelivr/"/>
+    
+      <category term="Github" scheme="https://sunhwee.com/tags/Github/"/>
     
       <category term="cdn" scheme="https://sunhwee.com/tags/cdn/"/>
     
@@ -612,6 +582,36 @@
       <category term="脚本" scheme="https://sunhwee.com/tags/%E8%84%9A%E6%9C%AC/"/>
     
       <category term="Script" scheme="https://sunhwee.com/tags/Script/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu 安装 QQ/微信/TIM 等软件</title>
+    <link href="https://sunhwee.com/posts/48a5af98.html"/>
+    <id>https://sunhwee.com/posts/48a5af98.html</id>
+    <published>2019-09-09T13:44:44.000Z</published>
+    <updated>2019-10-19T15:05:12.828Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Ubuntu安装deepin-wine-QQ&quot;&gt;&lt;a href=&quot;#Ubuntu安装deepin-wine-QQ&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件推荐" scheme="https://sunhwee.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+    
+      <category term="Ubuntu" scheme="https://sunhwee.com/tags/Ubuntu/"/>
+    
+      <category term="QQ" scheme="https://sunhwee.com/tags/QQ/"/>
+    
+      <category term="Wechat" scheme="https://sunhwee.com/tags/Wechat/"/>
     
   </entry>
   
